@@ -5,3 +5,5 @@
 /Source/GoDUENoLootLimit/bin
 /Source/GoDUENoLootLimit/obj
 /Source/GoDUENoLootLimit/.vs/GoDUENoLootLimit/v16
+.vs
+*.user

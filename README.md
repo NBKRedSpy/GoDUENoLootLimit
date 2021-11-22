@@ -1,7 +1,7 @@
 # GoDUENoLootLimit
 Mod for Guild of Dungeoneering Ultimate Edition which removes the loot gold cap.
 
-Note - this is only for the Ulitimate Edition.  The standard edition has no caps.
+Note - this is only for the Ultimate Edition.  The standard edition has no caps.
 
 Getting a bit behind in the start of the game?  Tired of the paltry 15 gold per quest when saving up for the next 750 gold upgrade?
 
