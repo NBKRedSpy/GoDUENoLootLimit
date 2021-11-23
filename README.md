@@ -10,6 +10,10 @@ Want to collect enough candlesticks to walk from New York to the UK?  Knock your
 
 Want to have custom caps for the map exploration, loot, and monster gold?  Simply change the values in the config file.
 
+# Game Update
+The developer has added an option to change the gold caps to 5x the normal cap.  If that option is enabled, the gold cap will be 5x of what this mod is set to (15,000 by default).
+
+
 # Installation
 
 1. Download the BepInEx utility from https://github.com/BepInEx/BepInEx/releases/download/v5.4.17/BepInEx_x64_5.4.17.0.zip
@@ -30,7 +34,19 @@ BepInEx\config\ folder which allows the user to customize the gold caps.  The Ma
 When the game is not running, edit the file in notepad and set the gold caps to whatever value is desired.  
 Use zero to use the game's default cap instead.
 
+# Uninstalling
 
+## Uninstall This Mod Only
+If you wish to uninstall just this mod, but want to be able to use other mods, delete the file GoDUENoLootLimit.dll from the BepInEx\plugins\ folder.  
+
+## Full Uninstall
+If you wish to fully uninstall the mod and the mod injector (BepInEx, which is what allows the mod to work), delete the following:
+* BepInEx folder
+* changelog.txt
+* winhttp.dll
+
+If you accidently delete other files, go to your game library in Steam or Epic and use the Verify command.  
+This will scan all the game's files and re-download any files that are missing or don't match the expected version.
 
 
 
