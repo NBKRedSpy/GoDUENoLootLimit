@@ -8,6 +8,8 @@ Getting a bit behind in the start of the game?  Tired of the paltry 15 gold per 
 Well toil no longer!  This mod changes the gold limit for the quests to 1000!  
 Want to collect enough candlesticks to walk from New York to the UK?  Knock yourself out!
 
+Want to have custom caps for the map exploration, loot, and monster gold?  Simply change the values in the config file.
+
 # Installation
 
 1. Download the BepInEx utility from https://github.com/BepInEx/BepInEx/releases/download/v5.4.17/BepInEx_x64_5.4.17.0.zip
@@ -21,6 +23,12 @@ Want to collect enough candlesticks to walk from New York to the UK?  Knock your
 
 During a quest, the maximum gold possible will now show a value over 1,000.
 
+# Optional Configuration
+After running the game with the plugin, there will be a config file called GoDUENoLootLimit.cfg located in the 
+BepInEx\config\ folder which allows the user to customize the gold caps.  The Map, Loot, and Monster gold caps can be individually configured.
+
+When the game is not running, edit the file in notepad and set the gold caps to whatever value is desired.  
+Use zero to use the game's default cap instead.
 
 
 
